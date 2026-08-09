@@ -1,0 +1,15 @@
+{
+	"name": "datafactoryescape",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bae986b4-eb3f-4331-b3db-2548e983feb6",
+		"tenantId": "a2335777-cc59-47f9-85d8-5281ce466dc1"
+	}
+}
